@@ -1,0 +1,106 @@
+[
+  {
+    "name": "zhitomir",
+    "number": "20"
+  },
+  {
+    "name": "zaporizzya",
+    "number": "34"
+  },
+  {
+    "name": "yzhorod",
+    "number": "12"
+  },
+  {
+    "name": "lutsk",
+    "number": "20"
+  },
+  {
+    "name": "vinnitsa",
+    "number": "67"
+  },
+  {
+    "name": "ternopil",
+    "number": "20"
+  },
+  {
+    "name": "summy",
+    "number": "78"
+  },
+  {
+    "name": "rivne",
+    "number": "20"
+  },
+  {
+    "name": "poltava",
+    "number": "20"
+  },
+  {
+    "name": "odessa",
+    "number": "20"
+  },
+  {
+    "name": "mikolaiv",
+    "number": "33"
+  },
+  {
+    "name": "lugansk",
+    "number": "20"
+  },
+  {
+    "name": "rivne",
+    "number": "45"
+  },
+  {
+    "name": "kropivnysky",
+    "number": "43"
+  },
+  {
+    "name": "kyiv",
+    "number": "20"
+  },
+  {
+    "name": "khmelnytskyi",
+    "number": "20"
+  },
+  {
+    "name": "herson",
+    "number": "20"
+  },
+  {
+    "name": "lvov",
+    "number": "20"
+  },
+  {
+    "name": "harkiv",
+    "number": "20"
+  },
+  {
+    "name": "ivano_frankivsk",
+    "number": "20"
+  },
+  {
+    "name": "donetsk",
+    "number": "20"
+  },
+  {
+    "name": "dnipropetrovsk",
+    "number": "20"
+  },
+  {
+    "name": "simferopol",
+    "number": "20"
+  },
+  {
+    "name": "chernigiv",
+    "number": "20"
+  },
+  {
+    "name": "chernivtsi",
+    "number": "20"
+  },
+  {
+  "name": "cherkasy",
+  "number": "20"
+  }
+]
